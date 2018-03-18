@@ -1,5 +1,4 @@
 import java.text.DecimalFormat;
-
 public class MoverMoney {
     public static void main(String[] args) {
         float vnd, usd;
